@@ -1,1 +1,12 @@
 The video discusses the role of Management Information Systems (MIS) in business intelligence and analytics, including data visualization, data mining, predictive analysis, and reporting. The video explains the purpose of Management Information Systems (MIS) in the business industry and the tools used to edit the video. Essentially, Management Information Systems (MIS) assist business companies in producing reports to influence their direction positively. Its purpose is to set performance goals. The system ensures that the proper data is collected from all the different sources, processed, filtered, and sent to all necessary areas. The framework is expected to satisfy the data needs of an individual, a gathering of people, and the administration functionaries: the upper management and managers. This report provides an overview of how Management Information System (MIS) is implemented, explains the video-making process, the analysis of the video-making process and the results, and the conclusion.
+
+MIS in Business Intelligence
+
+
+The last topic in the video is business intelligence powered by MIS and its benefits. As mentioned in the previous subsections, MIS is a powerful tool to collect and analyze data into useful information. Incorporating MIS in business intelligence yields the following benefits:
+
+1. Allows managers to make informed decisions based on relevant information. MIS provides the information in an accurate and timely manner (Laudon & Laudon, 2016).
+
+2. MIS Tools allows for efficient data reporting and visualization, making it easier for shareholders to understand and act if needed (Laudon & Laudon, 2016).
+
+3. MIS allows for better data consolidation and integration as it uses data from internal and external sources and general information from the internet. This enables organizations to understand their operations better and get important insights (Turban, Sharda, & Delen, 2019).
